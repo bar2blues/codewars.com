@@ -13,3 +13,5 @@ function fizzbuzz(n) {
 }
 
 fizzbuzz(100);
+
+//este ejercicio no paso los test
