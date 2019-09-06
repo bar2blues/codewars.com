@@ -9,3 +9,5 @@ function queueTime(customers, n) {
 
   return Math.max(...tills);
 }
+
+// paso lo test
